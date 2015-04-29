@@ -1,2 +1,2 @@
 # This loads nvm
-[ -s "~/.nvm/nvm.sh" ] && . "~/.nvm/nvm.sh"
+[ -s "$HOME/.nvm/nvm.sh" ] && . "$HOME/.nvm/nvm.sh"
